@@ -1,0 +1,4 @@
+class ReportDataSample {
+  String name;
+  
+}
