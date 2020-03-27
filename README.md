@@ -36,8 +36,15 @@
 * Read guides and get informed of ways to protect your self and your closest
 * Check your symptomps and see if there is anything to worry about
 * Report a potential COVID19 case to get medical care needed after checking the symptomps Contains(Personal information,GPS location,symptomps)
- 
- 
+## Packages
+| Package        | The use         
+| ------------- |:-------------:
+| syncfusion_flutter_charts      | for the charts 
+| webview_flutter      | for the guide & news webview    
+| location | to get user location    
+|  provider | for the state managment   
+|   mailer | to send the report mail   
+|   Google fonts/responsive_screen/spinkit | for design matters
 ## Credit
  
 * The api used is [thevirustracker](https://thevirustracker.com) for stats and news  
