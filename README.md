@@ -1,15 +1,18 @@
  
  
 <h1 align="center">
-  <br>
-  
+ <img src="https://img.icons8.com/officel/80/000000/virus.png"/>
   <br>
   ANTI COVID-19 , Let's beat this pandemic
+  </br>
+  
+ 
   <br>
+   
 </h1>
  
 <h4 align="center">A (local) app to track and have all kind of information to COVID19 virus this app was  made using flutter <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
-<p>  <img src="https://www.gstatic.com/devrel-devsite/v6bd5a0b4c9254732f5f201c272fcfb160f0efe389bcfbc2a4719d82eac4acb09/firebase/images/lockup.png?dcb_=0.7662382732874955"  alt="Smiley face" align="middle"</p>
+
  
  
 <p align="center">
