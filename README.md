@@ -53,6 +53,13 @@
 * The api used is [thevirustracker](https://thevirustracker.com) for stats and news  
 * [CDC.gov](CDC.gov) 
  
+ ## Tools used:
+* IntelliJ IDEA (text editor)
+* Dart (logic)
+
+## Team:
+This project was made by: 
+* [Aouimer Alaa](https://github.com/AlaaEdAouimeur)
  
 > GitHub [@alaaedaouimeur](https://github.com/alaaedaouimeur)  · 
 > Instagram [@x.alaaaouimeur.x](https://www.instagram.com/x.alaaaouimeur.x/)
