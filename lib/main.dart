@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       create: (_) => AppBrain(),
           child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: ' Flutter Demo ',
         theme: ThemeData(
         primaryColor:Color(0xff00cc99) ,
          // primarySwatch:  Colors.grey,
